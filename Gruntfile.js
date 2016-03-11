@@ -199,7 +199,7 @@ module.exports = function (grunt) {
             },
             build: {
                 options: {
-                    title: "Sucess",
+                    title: "Success",
                     message: "HSBC icon Font is built"
                 }
             }
